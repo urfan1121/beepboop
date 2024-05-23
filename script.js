@@ -7,7 +7,7 @@ function selectOption(option) {
         // Flash rainbow colors
         flashRainbowColors(function() {
             document.getElementById('question').style.display = 'none'; // Hide the question
-            displayCatHeart(); // Display the cat-heart.gif
+            displayCat(); // Display the IMG-20230430-WA0024.jpg
         });
     } else if (option === 'no') {
         // Change text on the "No" button to "You sure?"
