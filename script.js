@@ -56,7 +56,7 @@ function displayCat() {
     };
 }
 
-// Function to display the cat-heart.gif
+// Function to display the IMG-20231028-WA0037.jpg
 function displayCatHeart() {
     // Clear existing content in the image container
     document.getElementById('image-container').innerHTML = '';
